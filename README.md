@@ -1,4 +1,4 @@
-# Asterrank-academic-dash-project
+# Asterank-academic-dash-project
 An academic project to learn how to use Dash Plotly
 Hey there! It's my small project to get acquainted with Dash Plotly.
 
@@ -23,3 +23,7 @@ Response data formats:
 * DEC - Declination (@J200)
 * RA - Right ascension (@J200)
 * MSTAR - Derived stellar mass (msol)
+
+I added two categories to this list:
+* star size: the size of the star the planet's orbiting  around depending on RSTAR in comparison with our Sun's size
+* planet suitability: characteristics of the planet depending on gravity (RPLANET) and temperature (TPLANET) that shows the suitability of the planet for life.
