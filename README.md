@@ -1,6 +1,7 @@
 # Asterank-academic-dash-project
 An academic project to learn how to use Dash Plotly
 Hey there! It's my small project to get acquainted with Dash Plotly.
+Dash is running on http://127.0.0.1:8050/
 
 It is based on data from http://www.asterank.com/kepler.
 ## Asterank is a scientific and economic database of over 600,000 asteroids.
